@@ -20,5 +20,48 @@
       "name": "Dan",
       "id": 4
     }
-  ]
+  ],
+  "mylist": [
+    {
+      "id": 1,
+      "isAppointmentHolder": true,
+      "isBenificialOwner": false,
+      "name": "Celestine Lim Swee Kian",
+      "shareholding": "52%",
+      "designation": "Chief operating officer(COO)",
+      "nationality": "Singaporean",
+      "dob": "7 March 1974",
+      "nric": "S123456A",
+      "resAdd": "73D joo Chiat Road, Singapore 137734",
+
+        "officeNo": "000000000",
+  "mobileNo": "000000000",
+  "emailAddr": "CelestineLimSweeKian@testmail.test"
+
+    },
+    {
+      "id": 2,
+      "isAppointmentHolder": true,
+      "isBenificialOwner": false,
+      "name": "Benjamin Lim Wei Bin",
+      "shareholding": "25%",
+      "designation": "Finance director",
+      "nationality": "Singaporean",
+      "dob": "4 March 1986",
+      "nric": "S12830212F",
+      "resAdd": "Bik 134 Ang Mo Kio, #12-563 Singapore 563134"
+    },
+    {
+      "id": 3,
+      "isAppointmentHolder": false,
+      "isBenificialOwner": true,
+      "name": "Roy Tan Bin Long",
+      "shareholding": "28%",
+      "designation": "Benificial Owner",
+      "nationality": "Australian",
+      "dob": "9 September 1983",
+      "nric": "S23456789Z",
+      "resAdd": "27 Sixth Avenue, Singapore 842327"
+    }
+  ],
 }
